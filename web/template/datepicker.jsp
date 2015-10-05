@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html>
 <head lang="en">
-  <meta charset="UTF-8">
-  <title>日期选择</title>
-  <link rel="stylesheet" href="../css/front.css"/>
-  <link rel="stylesheet" href="../css/bootstrap/bootstrap.min.css"/>
-  <link rel="stylesheet" href="../css/ui/jquery-ui.min.css"/>
-  <link rel="stylesheet" href="../css/ui/jquery-ui.structure.min.css"/>
-  <link rel="stylesheet" href="../css/ui/jquery-ui.theme.min.css"/>
+    <meta charset="UTF-8">
+    <title>日期选择</title>
+    <link rel="stylesheet" href="../css/front.css"/>
+    <link rel="stylesheet" href="../css/bootstrap/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../css/ui/jquery-ui.min.css"/>
+    <link rel="stylesheet" href="../css/ui/jquery-ui.structure.min.css"/>
+    <link rel="stylesheet" href="../css/ui/jquery-ui.theme.min.css"/>
 </head>
 <body class="front-body">
 <div class="all-content">
