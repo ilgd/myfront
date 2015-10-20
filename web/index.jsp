@@ -12,7 +12,7 @@
     <%@ include file="../template/head.jsp"%>
     <div class="front-content">
     <a type="button" class="btn btn-success Buttonn" href="#">
-        <span  class="glyphicon glyphicon-plus"></span>新增活动
+        <span  class="glyphicon glyphicon-plus"></span>新增活动:
     </a><br>
     <div class="grey-line"></div>
         <a type="button" class="btn btn-default Button1 btn-main" href="../template/datepicker.jsp">选择日期</a>
